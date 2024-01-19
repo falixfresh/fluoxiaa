@@ -1,0 +1,7 @@
+{
+    "token": "YOUR_TOKEN_HERE", 
+    "prefix": "^",
+    "delay": "2500",
+    "phrases_file": "phrases.txt",
+    "owner": 843769247847284748 
+}
