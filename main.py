@@ -1,4 +1,4 @@
-# Fluorum Interface Suite BETA 0.5
+# fluoxia v0.1
 
 try:
     from discord.ext import commands
